@@ -1,0 +1,5 @@
+sałatka	14.00	PLN
+frytki	8.00	PLN
+gulasz	18.00	PLN
+pierogi	16.00	PLN
+schabowy	18.00	PLN

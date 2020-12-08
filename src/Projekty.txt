@@ -1,0 +1,4 @@
+Groovy	Agnieszka Olech	Kamil Morawski	Tomasz Bednarczyk
+Grails	Agnieszka Olech	Jan Tomasik
+Java	Agnieszka Olech	Tomasz Bednarczyk
+JEE	Agnieszka Olech	Katarzyna Bonda	Kamil Morawski

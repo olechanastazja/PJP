@@ -1,0 +1,5 @@
+Agnieszka Olech	Groovy	Grails	Java	JEE
+Kamil Morawski	Groovy	JEE
+Tomasz Bednarczyk	Groovy	Java
+Jan Tomasik	Grails
+Katarzyna Bonda	JEE
